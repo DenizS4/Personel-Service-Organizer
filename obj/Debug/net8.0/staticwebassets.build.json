@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ECbS7FoZNcgLtGOqlu2F7a+0DPARhnBCDxXSoQR0mKs=",
+  "Source": "BusOrganizer",
+  "BasePath": "_content/BusOrganizer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
